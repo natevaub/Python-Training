@@ -1,0 +1,19 @@
+[project]
+name = "linked_list_nvaubien"
+version = "0.0.1"
+authors = [
+  { name="Nate", email="nathan.vaubien@proton.me" },
+]
+description = "A small package for linked lists"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = ""
+Issues = ""
