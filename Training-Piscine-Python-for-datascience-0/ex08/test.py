@@ -2,7 +2,6 @@ from time import sleep
 from tqdm import tqdm
 # from Loading import ft_tqdm
 
-
 def ft_tqdm(lst: range):
     total = len(lst)
     counter = 0

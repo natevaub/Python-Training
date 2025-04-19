@@ -15,5 +15,5 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
 [project.urls]
-Homepage = ""
-Issues = ""
+Homepage = "https://github.com/natevaub/Python-Training/tree/master/Training-Piscine-Python-for-datascience-0/ex09"
+Issues = "https://github.com/natevaub/Python-Training/issues"
